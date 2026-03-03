@@ -1,0 +1,150 @@
+[
+    {
+        "password": "medialab_2025",
+        "followedDocs": {
+            "FIRST DOC": 1,
+            "The Fall of Gondolin": 1,
+            "The Hobbit": 1,
+            "The Mysterious Affair at Styles": 4,
+            "The Mystery of the Blue Train": 1
+        },
+        "userLastName": "Admin",
+        "userType": "ADMIN",
+        "userFirstName": "System",
+        "allowedCategories": [],
+        "userId": 0,
+        "username": "medialab"
+    },
+    {
+        "password": "1234",
+        "followedDocs": {},
+        "userLastName": "Christie",
+        "userType": "AUTHOR",
+        "userFirstName": "Agatha",
+        "allowedCategories": ["CRIME"],
+        "userId": 2,
+        "username": "aga"
+    },
+    {
+        "password": "1234",
+        "followedDocs": {},
+        "userLastName": "Tolkien",
+        "userType": "AUTHOR",
+        "userFirstName": "JRR",
+        "allowedCategories": [
+            "ACTION",
+            "FICTION"
+        ],
+        "userId": 3,
+        "username": "tolkien"
+    },
+    {
+        "password": "1234",
+        "followedDocs": {},
+        "userLastName": "Adams",
+        "userType": "AUTHOR",
+        "userFirstName": "Douglas",
+        "allowedCategories": [
+            "POETRY",
+            "THRILLER"
+        ],
+        "userId": 4,
+        "username": "doug"
+    },
+    {
+        "password": "1234",
+        "followedDocs": {"anonymous author writes": 1},
+        "userLastName": "Shakespeare",
+        "userType": "AUTHOR",
+        "userFirstName": "William",
+        "allowedCategories": [
+            "DRAMA",
+            "POETRY"
+        ],
+        "userId": 5,
+        "username": "ws"
+    },
+    {
+        "password": "123",
+        "followedDocs": {},
+        "userLastName": "King",
+        "userType": "AUTHOR",
+        "userFirstName": "Stephen ",
+        "allowedCategories": [
+            "ACTION",
+            "DRAMA",
+            "POETRY",
+            "THRILLER"
+        ],
+        "userId": 6,
+        "username": "KING123"
+    },
+    {
+        "password": "1234",
+        "followedDocs": {},
+        "userLastName": "Crichton",
+        "userType": "AUTHOR",
+        "userFirstName": "Michael",
+        "allowedCategories": ["ACTION"],
+        "userId": 7,
+        "username": "miki"
+    },
+    {
+        "password": "1234",
+        "followedDocs": {
+            "Jurassic Park": 1,
+            "The Stand": 1,
+            "The Andromeda Strain": 1,
+            "The Shining": 1
+        },
+        "userLastName": "user2",
+        "userType": "READER",
+        "userFirstName": "user2",
+        "allowedCategories": [
+            "ACTION",
+            "DRAMA",
+            "THRILLER"
+        ],
+        "userId": 9,
+        "username": "user2"
+    },
+    {
+        "password": "123",
+        "followedDocs": {
+            "A FUNERAL ELEGY.": 1,
+            "The Silmarillion": 1,
+            "Lord of the Rings": 2,
+            "Shakespeare's Sonnets": 1
+        },
+        "userLastName": "user3",
+        "userType": "READER",
+        "userFirstName": "user3",
+        "allowedCategories": [
+            "FICTION",
+            "POETRY"
+        ],
+        "userId": 10,
+        "username": "user3"
+    },
+    {
+        "password": "1234",
+        "followedDocs": {
+            "The Andromeda Strain": 1,
+            "The Two Towers": 1,
+            "The Secret of Chimneys": 2
+        },
+        "userLastName": "user4",
+        "userType": "READER",
+        "userFirstName": "user4",
+        "allowedCategories": [
+            "ACTION",
+            "FICTION",
+            "DRAMA",
+            "POETRY",
+            "THRILLER",
+            "CRIME"
+        ],
+        "userId": 11,
+        "username": "user4"
+    }
+]
